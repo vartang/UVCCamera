@@ -1,6 +1,8 @@
+引用时间2020/7/9/16点05分
+
 UVCCamera
 =========
-
+通过外接OTG通过驱动连接USB实现画面
 library and sample to access to UVC web camera on non-rooted Android device
 
 Copyright (c) 2014-2017 saki t_saki@serenegiant.com
